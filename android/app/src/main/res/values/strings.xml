@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">maidoupoRN</string>
+
+    <!--刷新-->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新</string>
+    <string name="xlistview_header_hint_loading">刷新中</string>
+    <string name="xlistview_header_last_time">上次更新:</string>
+    <string name="xlistview_header_unsupport_last_time">上次更新:%1$s</string>
+    <string name="xlistview_header_hint_success">更新成功</string>
+    <string name="xlistview_header_hint_fail">更新失败</string>
+    <string name="xlistview_footer_hint_normal">上拉加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开加载更多</string>
+    <string name="xlistview_footer_hint_loading">加载中…</string>
+    <string name="xlistview_footer_hint_no_more">没有更多了</string>
+    <string name="listview_footer_hint_no_more_price">没有更多报价了</string>
+    <string name="listview_footer_hint_no_more">没有更多了</string>
+</resources>

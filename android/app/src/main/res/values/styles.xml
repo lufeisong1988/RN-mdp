@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <declare-styleable name="RotateDotsProgressView">
+        <attr name="dots_radius" format="dimension|reference" />
+        <attr name="dots_gap" format="dimension|reference" />
+        <attr name="dots_normal_color" format="color|reference" />
+        <attr name="dots_selected_color" format="color|reference" />
+        <attr name="dots_number" format="integer|reference"/>
+
+    </declare-styleable>
+</resources>
